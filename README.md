@@ -1,0 +1,2 @@
+# NumberConvertedToUppercaseAmount
+C#数字转换成大写人民币金额
